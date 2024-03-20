@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=3544FF&text=Dong%20Hyun's%20Github&section=header&reversal=true&textBg=false&fontSize=55&fontAlign=50&fontAlignY=36&animation=scaleIn&fontColor=FFFB00&rotate=0&descAlignY=60)  
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Dong%20Hyun's%20Github&fontAlign=50&fontAlignY=39&animation=twinkling)  
 
 ✨Tech Stack✨  
   
@@ -14,7 +14,11 @@
 [Server]  
   
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">  
+
+[ML & DL]  
   
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+
 [IaC]  
   
 <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">  
@@ -34,8 +38,6 @@
 [Tools]  
   
 <img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/virtual box-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"> <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">  
-
-FRAMEWORK
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongHyun0907&show_icons=true&theme=ambient_gradient)  
 
