@@ -1,6 +1,12 @@
+<div align=center>
+  
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Dong%20Hyun's%20Github&fontAlign=50&fontAlignY=39&animation=twinkling)  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimDongHyun0907&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+<div align=center>
 
 ## ✨Tech Stack✨  
   
@@ -40,10 +46,17 @@
 ### [Tools]  
   
 <img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/virtual box-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"> <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">  
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongHyun0907&show_icons=true&theme=ambient_gradient)  
 
+</div>
+<br><br>
+
+<div align=center>
+
+### ✨Github Stats✨
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongHyun0907&show_icons=true&theme=ambient_gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDongHyun0907&layout=compact)  
+</div>
 
 
 <!--
