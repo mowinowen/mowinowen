@@ -54,7 +54,7 @@
 
 ### ✨Github Stats✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongHyun0907&show_icons=true&theme=ambient_gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongHyun0907&show_icons=true&theme=ambient_gradient&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDongHyun0907&layout=compact)  
 </div>
 
